@@ -5,7 +5,7 @@
 #include <ftw.h>
 #include <unistd.h>  // For readlink and realpath
 
-// define any other global variable you may need over here
+// define any other global variable you may need 
 
 typedef struct path_node {
     char *path;
